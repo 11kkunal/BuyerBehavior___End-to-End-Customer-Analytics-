@@ -1,0 +1,201 @@
+CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100),Cluster,Persona
+1,Male,19,15,39,1,Impulsive Spenders
+2,Male,21,15,81,1,Impulsive Spenders
+3,Female,20,16,6,0,Budget Conscious
+4,Female,23,16,77,1,Impulsive Spenders
+5,Female,31,17,40,1,Impulsive Spenders
+6,Female,22,17,76,1,Impulsive Spenders
+7,Female,35,18,6,0,Budget Conscious
+8,Female,23,18,94,1,Impulsive Spenders
+9,Male,64,19,3,0,Budget Conscious
+10,Female,30,19,72,1,Impulsive Spenders
+11,Male,67,19,14,0,Budget Conscious
+12,Female,35,19,99,1,Impulsive Spenders
+13,Female,58,20,15,0,Budget Conscious
+14,Female,24,20,77,1,Impulsive Spenders
+15,Male,37,20,13,0,Budget Conscious
+16,Male,22,20,79,1,Impulsive Spenders
+17,Female,35,21,35,0,Budget Conscious
+18,Male,20,21,66,1,Impulsive Spenders
+19,Male,52,23,29,0,Budget Conscious
+20,Female,35,23,98,1,Impulsive Spenders
+21,Male,35,24,35,0,Budget Conscious
+22,Male,25,24,73,1,Impulsive Spenders
+23,Female,46,25,5,0,Budget Conscious
+24,Male,31,25,73,1,Impulsive Spenders
+25,Female,54,28,14,0,Budget Conscious
+26,Male,29,28,82,1,Impulsive Spenders
+27,Female,45,28,32,0,Budget Conscious
+28,Male,35,28,61,1,Impulsive Spenders
+29,Female,40,29,31,0,Budget Conscious
+30,Female,23,29,87,1,Impulsive Spenders
+31,Male,60,30,4,0,Budget Conscious
+32,Female,21,30,73,1,Impulsive Spenders
+33,Male,53,33,4,0,Budget Conscious
+34,Male,18,33,92,1,Impulsive Spenders
+35,Female,49,33,14,0,Budget Conscious
+36,Female,21,33,81,1,Impulsive Spenders
+37,Female,42,34,17,0,Budget Conscious
+38,Female,30,34,73,1,Impulsive Spenders
+39,Female,36,37,26,0,Budget Conscious
+40,Female,20,37,75,1,Impulsive Spenders
+41,Female,65,38,35,4,Mid-Market
+42,Male,24,38,92,1,Impulsive Spenders
+43,Male,48,39,36,0,Budget Conscious
+44,Female,31,39,61,1,Impulsive Spenders
+45,Female,49,39,28,0,Budget Conscious
+46,Female,24,39,65,1,Impulsive Spenders
+47,Female,50,40,55,4,Mid-Market
+48,Female,27,40,47,1,Impulsive Spenders
+49,Female,29,40,42,1,Impulsive Spenders
+50,Female,31,40,42,1,Impulsive Spenders
+51,Female,49,42,52,4,Mid-Market
+52,Male,33,42,60,1,Impulsive Spenders
+53,Female,31,43,54,1,Impulsive Spenders
+54,Male,59,43,60,4,Mid-Market
+55,Female,50,43,45,4,Mid-Market
+56,Male,47,43,41,4,Mid-Market
+57,Female,51,44,50,4,Mid-Market
+58,Male,69,44,46,4,Mid-Market
+59,Female,27,46,51,1,Impulsive Spenders
+60,Male,53,46,46,4,Mid-Market
+61,Male,70,46,56,4,Mid-Market
+62,Male,19,46,55,1,Impulsive Spenders
+63,Female,67,47,52,4,Mid-Market
+64,Female,54,47,59,4,Mid-Market
+65,Male,63,48,51,4,Mid-Market
+66,Male,18,48,59,1,Impulsive Spenders
+67,Female,43,48,50,4,Mid-Market
+68,Female,68,48,48,4,Mid-Market
+69,Male,19,48,59,1,Impulsive Spenders
+70,Female,32,48,47,1,Impulsive Spenders
+71,Male,70,49,55,4,Mid-Market
+72,Female,47,49,42,4,Mid-Market
+73,Female,60,50,49,4,Mid-Market
+74,Female,60,50,56,4,Mid-Market
+75,Male,59,54,47,4,Mid-Market
+76,Male,26,54,54,1,Impulsive Spenders
+77,Female,45,54,53,4,Mid-Market
+78,Male,40,54,48,4,Mid-Market
+79,Female,23,54,52,1,Impulsive Spenders
+80,Female,49,54,42,4,Mid-Market
+81,Male,57,54,51,4,Mid-Market
+82,Male,38,54,55,1,Impulsive Spenders
+83,Male,67,54,41,4,Mid-Market
+84,Female,46,54,44,4,Mid-Market
+85,Female,21,54,57,1,Impulsive Spenders
+86,Male,48,54,46,4,Mid-Market
+87,Female,55,57,58,4,Mid-Market
+88,Female,22,57,55,1,Impulsive Spenders
+89,Female,34,58,60,1,Impulsive Spenders
+90,Female,50,58,46,4,Mid-Market
+91,Female,68,59,55,4,Mid-Market
+92,Male,18,59,41,1,Impulsive Spenders
+93,Male,48,60,49,4,Mid-Market
+94,Female,40,60,40,4,Mid-Market
+95,Female,32,60,42,1,Impulsive Spenders
+96,Male,24,60,52,1,Impulsive Spenders
+97,Female,47,60,47,4,Mid-Market
+98,Female,27,60,50,1,Impulsive Spenders
+99,Male,48,61,42,4,Mid-Market
+100,Male,20,61,49,1,Impulsive Spenders
+101,Female,23,62,41,1,Impulsive Spenders
+102,Female,49,62,48,4,Mid-Market
+103,Male,67,62,59,4,Mid-Market
+104,Male,26,62,55,1,Impulsive Spenders
+105,Male,49,62,56,4,Mid-Market
+106,Female,21,62,42,1,Impulsive Spenders
+107,Female,66,63,50,4,Mid-Market
+108,Male,54,63,46,4,Mid-Market
+109,Male,68,63,43,4,Mid-Market
+110,Male,66,63,48,4,Mid-Market
+111,Male,65,63,52,4,Mid-Market
+112,Female,19,63,54,1,Impulsive Spenders
+113,Female,38,64,42,3,Wealthy Savers
+114,Male,19,64,46,1,Impulsive Spenders
+115,Female,18,65,48,1,Impulsive Spenders
+116,Female,19,65,50,1,Impulsive Spenders
+117,Female,63,65,43,4,Mid-Market
+118,Female,49,65,59,4,Mid-Market
+119,Female,51,67,43,4,Mid-Market
+120,Female,50,67,57,4,Mid-Market
+121,Male,27,67,56,1,Impulsive Spenders
+122,Female,38,67,40,3,Wealthy Savers
+123,Female,40,69,58,2,High-Value / VIP
+124,Male,39,69,91,2,High-Value / VIP
+125,Female,23,70,29,3,Wealthy Savers
+126,Female,31,70,77,2,High-Value / VIP
+127,Male,43,71,35,3,Wealthy Savers
+128,Male,40,71,95,2,High-Value / VIP
+129,Male,59,71,11,3,Wealthy Savers
+130,Male,38,71,75,2,High-Value / VIP
+131,Male,47,71,9,3,Wealthy Savers
+132,Male,39,71,75,2,High-Value / VIP
+133,Female,25,72,34,3,Wealthy Savers
+134,Female,31,72,71,2,High-Value / VIP
+135,Male,20,73,5,3,Wealthy Savers
+136,Female,29,73,88,2,High-Value / VIP
+137,Female,44,73,7,3,Wealthy Savers
+138,Male,32,73,73,2,High-Value / VIP
+139,Male,19,74,10,3,Wealthy Savers
+140,Female,35,74,72,2,High-Value / VIP
+141,Female,57,75,5,3,Wealthy Savers
+142,Male,32,75,93,2,High-Value / VIP
+143,Female,28,76,40,3,Wealthy Savers
+144,Female,32,76,87,2,High-Value / VIP
+145,Male,25,77,12,3,Wealthy Savers
+146,Male,28,77,97,2,High-Value / VIP
+147,Male,48,77,36,3,Wealthy Savers
+148,Female,32,77,74,2,High-Value / VIP
+149,Female,34,78,22,3,Wealthy Savers
+150,Male,34,78,90,2,High-Value / VIP
+151,Male,43,78,17,3,Wealthy Savers
+152,Male,39,78,88,2,High-Value / VIP
+153,Female,44,78,20,3,Wealthy Savers
+154,Female,38,78,76,2,High-Value / VIP
+155,Female,47,78,16,3,Wealthy Savers
+156,Female,27,78,89,2,High-Value / VIP
+157,Male,37,78,1,3,Wealthy Savers
+158,Female,30,78,78,2,High-Value / VIP
+159,Male,34,78,1,3,Wealthy Savers
+160,Female,30,78,73,2,High-Value / VIP
+161,Female,56,79,35,4,Mid-Market
+162,Female,29,79,83,2,High-Value / VIP
+163,Male,19,81,5,3,Wealthy Savers
+164,Female,31,81,93,2,High-Value / VIP
+165,Male,50,85,26,3,Wealthy Savers
+166,Female,36,85,75,2,High-Value / VIP
+167,Male,42,86,20,3,Wealthy Savers
+168,Female,33,86,95,2,High-Value / VIP
+169,Female,36,87,27,3,Wealthy Savers
+170,Male,32,87,63,2,High-Value / VIP
+171,Male,40,87,13,3,Wealthy Savers
+172,Male,28,87,75,2,High-Value / VIP
+173,Male,36,87,10,3,Wealthy Savers
+174,Male,36,87,92,2,High-Value / VIP
+175,Female,52,88,13,3,Wealthy Savers
+176,Female,30,88,86,2,High-Value / VIP
+177,Male,58,88,15,3,Wealthy Savers
+178,Male,27,88,69,2,High-Value / VIP
+179,Male,59,93,14,3,Wealthy Savers
+180,Male,35,93,90,2,High-Value / VIP
+181,Female,37,97,32,3,Wealthy Savers
+182,Female,32,97,86,2,High-Value / VIP
+183,Male,46,98,15,3,Wealthy Savers
+184,Female,29,98,88,2,High-Value / VIP
+185,Female,41,99,39,3,Wealthy Savers
+186,Male,30,99,97,2,High-Value / VIP
+187,Female,54,101,24,3,Wealthy Savers
+188,Male,28,101,68,2,High-Value / VIP
+189,Female,41,103,17,3,Wealthy Savers
+190,Female,36,103,85,2,High-Value / VIP
+191,Female,34,103,23,3,Wealthy Savers
+192,Female,32,103,69,2,High-Value / VIP
+193,Male,33,113,8,3,Wealthy Savers
+194,Female,38,113,91,2,High-Value / VIP
+195,Female,47,120,16,3,Wealthy Savers
+196,Female,35,120,79,2,High-Value / VIP
+197,Female,45,126,28,3,Wealthy Savers
+198,Male,32,126,74,2,High-Value / VIP
+199,Male,32,137,18,3,Wealthy Savers
+200,Male,30,137,83,2,High-Value / VIP
